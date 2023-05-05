@@ -17,7 +17,7 @@ This application is used to handle any CRUD requests to interact with or modify 
 This application will require the user to run the 'npm i' command to install all dependencies. A user will also need to create a .env file to store personalized login information to be able to interact with the database.
   
 ## Testing
-This application can be tested with Insomnia. For details, check out this video.
+This application can be tested with Insomnia. For details, check out [this](https://drive.google.com/file/d/1yVbBNsJMkhd19q6Fvl-8gkuI_8Rj88Um/view) video.
   
 ## Licensing
 Licensed under [MIT](https://opensource.org/license/mit/)
